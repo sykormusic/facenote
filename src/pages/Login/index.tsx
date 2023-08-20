@@ -89,7 +89,6 @@ const Login = () => {
             </Button>
           </Flex>
         </Flex>
-      
       </Box>
     </LoginLayout>
   );
